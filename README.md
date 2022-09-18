@@ -1,10 +1,10 @@
-# assignment-webgl-Ameliamumtazaah
+### assignment-webgl-Ameliamumtazaah
 Amelia MumtazaH Karimah<br>
 5025201128
 
-Chosen Letters:
+# Chosen Letters:
 |Digits|Alphabets|
 |-|-|
 |28|AH|
 
-## Preview
+# Preview
