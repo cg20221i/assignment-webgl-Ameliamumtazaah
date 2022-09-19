@@ -1,5 +1,5 @@
 #myCanvas {
-    padding-left: 24em;
+    padding-left: 25em;
 }
 
 body {
@@ -11,12 +11,12 @@ h1 {
     font-weight: lighter;
     font-size: large;
     color: #fcebd9;
-    text-align: left;
+    text-align: center;
 }
 
 h2 {
     font-family: Tahoma, sans-serif;
     font-size: large;
     color: #fcebd9;
-    text-align: left;
+    text-align: center;
 }
