@@ -1,5 +1,6 @@
 # assignment-webgl-Ameliamumtazaah
-Amelia MumtazaH Karimah<br>
+Amelia MumtazaH Karimah
+
 5025201128
 
 ## Chosen Letters:
