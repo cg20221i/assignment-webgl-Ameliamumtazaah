@@ -1,7 +1,5 @@
 # assignment-webgl-Ameliamumtazaah
-assignment-webgl-Ameliamumtazaah created by GitHub Classroom
-
-### Assignment 3 Webgl: Hackaton
+## Assignment 3 Webgl: Hackaton
 Please resume the WebGL-based graphics application on the repo created in the previous assignment: https://classroom.github.com/a/qX__aFdc with the following specifications: 
 1. Add a little cube in the center of the canvas with a size specification as you want.
 2. Set the cube to glow white and become a light source.
